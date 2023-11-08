@@ -5,26 +5,22 @@ This project involves a cleaning robot that moves through a given map to clean d
 Installation
 Clone the repository using the following command:
 
-bash
-Copy code
-git clone https://github.com/your-username/cleaning-robot.git
+
+git clone https://github.com/your-username/Vacuum-Cleaner-Problem.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd cleaning-robot
 Install the required dependencies using pip:
 
-Copy code
+
 pip install -r requirements.txt
 Usage
 Place the input files in the example-problems directory.
 
 Run the main script to process the input files and generate the corresponding output files in the testing directory.
 
-css
-Copy code
-python main.py
+python vaccum_cleaning.py
 The script processes the input files in the example-problems directory and writes the output to the testing directory.
 
 Input Files
